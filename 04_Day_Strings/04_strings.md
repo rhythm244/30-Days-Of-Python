@@ -556,18 +556,26 @@ print(challenge.startswith('thirty')) # False
 31. Which one of the following variables return True when we use the method isidentifier():
     - 30DaysOfPython
     - thirty_days_of_python
+
 32. The following list contains the names of some of python libraries: ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']. Join the list with a hash with space string.
-33. Use the new line escape sequence to separate the following sentences.
+33. The following list contains the names of some of python libraries: ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']. Join the list with a hash with space string.
+34. The following list contains the names of some of python libraries: ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']. Join the list with a hash with space string.
+35. The following list contains the names of some of python libraries: ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']. Join the list with a hash with space string.
+36. The following list contains the names of some of python libraries: ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']. Join the list with a hash with space string.
+37. The following list contains the names of some of python libraries: ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']. Join the list with a hash with space string.
+38. The following list contains the names of some of python libraries: ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']. Join the list with a hash with space string.
+39. The following list contains the names of some of python libraries: ['Django', 'Flask', 'Bottle', 'Pyramid', 'Falcon']. Join the list with a hash with space string.
+40. Use the new line escape sequence to separate the following sentences.
     ```py
     I am enjoying this challenge.
     I just wonder what is next.
     ```
-34. Use a tab escape sequence to write the following lines.
+41. Use a tab escape sequence to write the following lines.
     ```py
     Name      Age     Country
     Asabeneh  250     Finland
     ```
-35. Use the string formating method to display the following:
+42. Use the string formating method to display the following:
 
 ```sh
 radius = 10
