@@ -121,12 +121,12 @@ if len(country_list) % 2 == 1:
         #ถ้า len country_list == ครึ่งนึงของ list ทั้งหมด
         if count <= (len(country_list) // 2):
             country_first_half.append(i)
-        """ถ้า count มากกว่าครึ่ง ให้เพิ่ม i ไปอีกตัวนึง i คือ ประเทศอีกประเทศนึง"""
+        # """ถ้า count มากกว่าครึ่ง ให้เพิ่ม i ไปอีกตัวนึง i คือ ประเทศอีกประเทศนึง"""
         else:
             country_first_half.append(i)
             print(country_first_half)
             break
-    
+
 else:
     #len(country_list) % 2 == 0
     print("even")
@@ -137,7 +137,7 @@ else:
         #ถ้า len country_list == ครึ่งนึงของ list ทั้งหมด
         if count <= (len(country_list) // 2):
             country_first_half.append(i)
-        """ถ้า count มากกว่าครึ่ง ให้เพิ่ม i ไปอีกตัวนึง i คือ ประเทศอีกประเทศนึง"""
+        # """ถ้า count มากกว่าครึ่ง ให้เพิ่ม i ไปอีกตัวนึง i คือ ประเทศอีกประเทศนึง"""
         else:
             print(country_first_half)
             break
